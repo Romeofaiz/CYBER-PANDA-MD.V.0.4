@@ -117,16 +117,16 @@ const chalk = require("chalk");
 
 //
 global.available = true;
-global.autoReadAll = false;
+global.autoReadAll = true;
 global.antitags = true;
 
 
 //auto functioner
 global.autoTyping = true;                //auto tying by default off.
 global.autoRecord = true;                //auto recording by default off.
-global.groupevent = false;                //This is the new variable for controlling group event handling.
-global.statusseen = false;                 //This is the new variable for controlling status seen.
-global.autoreadgc = false;
+global.groupevent = true;                //This is the new variable for controlling group event handling.
+global.statusseen = true;                 //This is the new variable for controlling status seen.
+global.autoreadgc = true;
 
 
 //
@@ -138,9 +138,9 @@ global.Owner = ["919341378016", "919341378016"];         //If you want singal nu
 global.OwnerNumber = ["919341378016", "919341378016"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
 global.ownertag = ["919341378016"];
 global.OwnerName = "ROMEK";
-global.BotName = "ROMEK XD";
-global.packname = "🦋 𝐏𝜟𝐍𝐃𝐀 🦋";                             //Do not change.
-global.author = "𝐏𝜟𝐍𝐃𝐀";                               //Do not change.
+global.BotName = "𝑅𝛩𝛭𝛯𝛫-𝛸𝐷-𝐵𝛩𝑇";
+global.packname = "🦋 RᴏᴍᴇK-Xᴅ 🦋";                             //Do not change.
+global.author = "RᴏᴍᴇK-Xᴅ";                               //Do not change.
 global.BotSourceCode = "https://github.com/Kai00"; //Do not change.
 global.SupportGroupLink = "https://chat.whatsapp.com/HsSmtZoETQMCfRdkyT1uih";
 
@@ -154,7 +154,7 @@ global.openAiAPI = "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";
 
 
 //
-global.location = "mumbai Maharashtra, India";
+global.location = "HambanThota, Sri Lankan";
 global.reactmoji = "💞";
 global.themeemoji = "😂";
 global.vidmenu = { url: 'https://tenor.com/en-CA/view/anonymous-hacker-smooth-gif-10171911193797826570%9D%90%95-12-14' };
